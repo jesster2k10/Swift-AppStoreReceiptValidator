@@ -1,4 +1,6 @@
-# Swift App Store Receipt Validator
+# Swift App Store Receipt Validator (Swift 3)
+
+This require Swift 3 and Xcode 8 Beta.
 
 A swift protocol extension to handle app store receipt validation.
 
